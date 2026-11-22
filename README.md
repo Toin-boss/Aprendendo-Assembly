@@ -5,3 +5,4 @@
 
 Se quiser conhecer as diferenças do Assembly x86-64 em cada sistema operacional veja em: assembly-por-sistema-operacional.md
 
+Testando commit
